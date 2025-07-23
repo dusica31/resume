@@ -1,9 +1,9 @@
 "use client";
 
 import Link from "next/link";
-import styles from "./Header.module.css";
+import styles from "./Menu.module.css";
 
-export default function Header() {
+export default function Menu() {
   return (
     <header className={styles.header}>
       <nav>

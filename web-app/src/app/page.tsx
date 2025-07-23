@@ -1,14 +1,14 @@
 "use client";
 
 import Footer from "@/components/Footer";
-import Header from "@/components/Header";
-
+import Menu from "@/components/Menu";
 
 export default function Home() {
   return (
     <div>
-      <Header />
-      Main page of my application
+      Dusica Milosevic Front End Engineer I build accessible, pixel-perfect
+      digital experiences for the web.
+      <Menu />
       <Footer />
     </div>
   );
